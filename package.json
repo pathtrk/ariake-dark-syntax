@@ -1,0 +1,17 @@
+{
+  "name": "ariake-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.2",
+  "description": "A dark blue syntax theme inspired by Japan colors and the poetry.",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax",
+    "japan"
+  ],
+  "repository": "https://github.com/pathtrk/ariake-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
