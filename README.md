@@ -9,7 +9,7 @@ Ariake is an atom syntax theme inspired by Japanese traditional colors and the p
 
 This theme is also a fork of [One Dark Syntax](https://github.com/atom/one-dark-syntax).
 
-![Ariake Syntax screen shot](https://cloud.githubusercontent.com/assets/633848/19751278/0ae6818a-9c33-11e6-9445-f4cf92ce1cd8.png)
+![Ariake Syntax screen shot](https://cloud.githubusercontent.com/assets/633848/19751339/640a91a2-9c33-11e6-816b-f710989a78e0.png)
 
 > The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
 
