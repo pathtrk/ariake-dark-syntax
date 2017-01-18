@@ -12,6 +12,6 @@
   "repository": "https://github.com/pathtrk/ariake-dark-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.30.0"
+    "atom": ">=1.13.0"
   }
 }
