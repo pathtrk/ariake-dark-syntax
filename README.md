@@ -15,6 +15,9 @@ This theme is also a fork of [One Dark Syntax](https://github.com/atom/one-dark-
 
 There is also a matching [UI theme](https://atom.io/themes/one-dark-ui).
 
+
+Comments change color when you hover over them so they are unobtrusive when un-needed.
+
 ### Install
 
 Search for `ariake-dark-syntax` in Settings > Install > Themes.
