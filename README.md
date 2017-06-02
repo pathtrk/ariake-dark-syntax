@@ -16,7 +16,18 @@ This theme is also a fork of [One Dark Syntax](https://github.com/atom/one-dark-
 There is also a matching [UI theme](https://atom.io/themes/one-dark-ui).
 
 
-Comments change color when you hover over them so they are unobtrusive when un-needed.
+Comments also change color when you hover over them so they are unobtrusive when un-needed.
+
+## Colors
+
+* `#93ddfb` Anakiwa
+* `#f5faff` Alice Blue
+* `#7e7edd` Chetwode Blue
+* `#9aefea` Blizzard Blue
+* `#85b1e0` Cornflower
+* `#4d8acb` Danube
+* `#dda2f6` Perfume
+* `#a571f4` Portage
 
 ### Install
 
