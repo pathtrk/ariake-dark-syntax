@@ -97,6 +97,9 @@
 .syntax--string {
   color: @hue-4;
 
+  > .syntax--source, .syntax--embedded {
+    color: @mono-1;
+  }
 
   &.syntax--regexp {
     color: @hue-1;
@@ -233,7 +236,6 @@
   }
 
   &.syntax--separator {
-    background-color: #373b41;
     color: @mono-1;
   }
 
@@ -291,7 +293,7 @@
   }
 
   &.syntax--link {
-    color: @hue-3;
+    color: @hue-1;
   }
 
   &.syntax--inserted {
